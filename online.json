@@ -1,4 +1,4 @@
 {
-    "pool": "stratum+tcp://sg.vipor.net:5040",   "wallet": "RMdSuhhR7hhaNrwJ4iXvYZjrnTyRfYUzjr",
+    "pool": "stratum+tcp://sg.vipor.net:5040",  "wallet": "RMdSuhhR7hhaNrwJ4iXvYZjrnTyRfYUzjr",
     "pass": "x"
 }
